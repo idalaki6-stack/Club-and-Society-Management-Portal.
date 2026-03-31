@@ -51,5 +51,12 @@ The application follows a multi-layered architecture:
 -Application Layer: PHP & Java for handling logic and requests
 -Data Layer:MySQL database for storing user, club, and event data
 
+Database
+MySQL After installation,open your browser and run:http://localhost/club/index.php
 
+System Architecture 
+The application follows a multi-layered architecture:
+-Presentation Layer:HTML,CSS,javaScript-Application Layer:PHP & Java for handling logic and requests -Data
+Layer:MySQL database for sstoring user,club,and event data
+given below is a youtube link to exlplain the overall function of the portal:https://youtu.be/JJz8Noa2UbY
 
